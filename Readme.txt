@@ -1,3 +1,12 @@
+title: Portfolio
+emoji: 📉
+colorFrom: green
+colorTo: purple
+sdk: static
+pinned: false
+license: mit
+
+## Acknowledgement
 Thanks for downloading this template!
 
 Template Name: iPortfolio
