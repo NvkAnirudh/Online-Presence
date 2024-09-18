@@ -812,6 +812,7 @@ section,
   padding: 20px 0;
   /* display: flex;  */
   align-items: stretch; 
+  margin-left: 15px;
 }
 .card {
   display: inline-block;
